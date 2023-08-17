@@ -15,7 +15,7 @@ body {
 
 .bg-qr {
     background-color: var(--color-white);
-    margin: 6rem auto;
+    margin: 7rem auto;
     border-radius: 1rem;
     padding: 1rem;
 }
@@ -58,7 +58,7 @@ body {
 
 @media screen and (min-width: 400px){
     .bg-qr {
-        max-width: 320px;
+        max-width: 310px;
     }
 
     .qr-content {
