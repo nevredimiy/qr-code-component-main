@@ -59,6 +59,10 @@ body {
 @media screen and (min-width: 400px){
     .bg-qr {
         max-width: 320px;
-        padding:  0 1.5rem;
+    }
+
+    .qr-content {
+        padding-left: 1.75rem;
+        padding-right: 1.75rem;
     }
 }
